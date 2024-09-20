@@ -1,7 +1,8 @@
 New Lyrics to my song!
 
 
-## Intro x1
+## Intro x4
 
 ## refrain
 
+## verse
